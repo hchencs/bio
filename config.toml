@@ -1,8 +1,8 @@
 # <customize>
 # The URL the site will be built for
-base_url = "https://hchencs.github.io/ab"
-title = "HKU/CAS joint lab of AI for biology"
-description = "We apply AI to molecular & cell biology and translational medicine research"
+base_url = "https://bio.gradebot.org"
+title = "HKU/CAS joint Lab of AI for Biology"
+description = "We apply AI to basic and translational medicine research"
 # </customize>
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -28,7 +28,7 @@ home_icon = "/img/logo.svg"
 # cv = "pdf/cv.pdf"
 
 [extra.publication]
-prefix = "https://hchencs.github.io/ab"
+# prefix = "https://hchencs.github.io/"
 # If author isn't empty, then highlight him/her in the author list.
 author = ""
 
